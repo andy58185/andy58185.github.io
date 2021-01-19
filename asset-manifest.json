@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/andyvo58185.github.io/static/css/main.0b3aa92f.chunk.css",
+    "main.js": "/andyvo58185.github.io/static/js/main.7f220218.chunk.js",
+    "main.js.map": "/andyvo58185.github.io/static/js/main.7f220218.chunk.js.map",
+    "runtime-main.js": "/andyvo58185.github.io/static/js/runtime-main.c997d9af.js",
+    "runtime-main.js.map": "/andyvo58185.github.io/static/js/runtime-main.c997d9af.js.map",
+    "static/css/2.1f208231.chunk.css": "/andyvo58185.github.io/static/css/2.1f208231.chunk.css",
+    "static/js/2.e622f17e.chunk.js": "/andyvo58185.github.io/static/js/2.e622f17e.chunk.js",
+    "static/js/2.e622f17e.chunk.js.map": "/andyvo58185.github.io/static/js/2.e622f17e.chunk.js.map",
+    "index.html": "/andyvo58185.github.io/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/andyvo58185.github.io/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.0b3aa92f.chunk.css.map": "/andyvo58185.github.io/static/css/main.0b3aa92f.chunk.css.map",
+    "static/js/2.e622f17e.chunk.js.LICENSE.txt": "/andyvo58185.github.io/static/js/2.e622f17e.chunk.js.LICENSE.txt",
+    "static/media/Resume.9c7c273d.pdf": "/andyvo58185.github.io/static/media/Resume.9c7c273d.pdf",
+    "static/media/avatar.d34beece.jpg": "/andyvo58185.github.io/static/media/avatar.d34beece.jpg",
+    "static/media/HeroSection.css": "/andyvo58185.github.io/static/media/img-1.53f48437.jpg",
+    "static/media/resume.169e3e8d.jpg": "/andyvo58185.github.io/static/media/resume.169e3e8d.jpg",
+    "static/media/sudoku.0b1a172e.jpg": "/andyvo58185.github.io/static/media/sudoku.0b1a172e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c997d9af.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.e622f17e.chunk.js",
+    "static/css/main.0b3aa92f.chunk.css",
+    "static/js/main.7f220218.chunk.js"
+  ]
+}
